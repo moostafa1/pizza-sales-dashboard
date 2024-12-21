@@ -34,7 +34,3 @@ This dashboard is a valuable tool for tracking pizza sales trends, understanding
 
 ### Example Visualization
 ![Pizza Sales Dashboard Preview](pizza_sales_dashboard.jpeg)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
